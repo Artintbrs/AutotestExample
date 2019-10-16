@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc83a481-8dea-4c2e-becc-c5e7df7ef375" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app-localServer-debug.apk" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/autotest/screen/elements/AllertMessageForm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/autotest/screen/elements/AuthorizationForm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/autotest/steps/AuthorizationUserSteps.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/autotest/steps/StepBase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/smoke/AuthorizationTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/smoke/TestBase.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,11 +31,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1105">
-              <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+            <state relative-caret-position="119">
+              <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -51,7 +56,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/autotest/screen/elements/AuthorizationForm.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="901">
-              <caret line="68" column="63" selection-start-line="68" selection-start-column="63" selection-end-line="68" selection-end-column="63" />
+              <caret line="68" column="67" selection-start-line="68" selection-start-column="67" selection-end-line="68" selection-end-column="67" />
             </state>
           </provider>
         </entry>
@@ -59,17 +64,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/smoke/AddFamilyMembersFromContactTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="26" column="52" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
+            <state relative-caret-position="289">
+              <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/smoke/AddFamilyMembersEmailTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="40" />
+              <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/smoke/TestBase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -100,7 +117,15 @@
       <find>/button_invite</find>
       <find>n1</find>
       <find>contains</find>
+      <find>osinit</find>
+      <find>MCS</find>
     </findStrings>
+    <replaceStrings>
+      <replace>EXAMPLE</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\ayako\IdeaProjects\AutotestExample</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="UPDATE_TYPE" value="REBASE" />
@@ -121,7 +146,6 @@
         <option value="$PROJECT_DIR$/src/main/java/autotest/steps/StepBase.java" />
         <option value="$PROJECT_DIR$/src/main/java/autotest/screen/elements/InHouseForm.java" />
         <option value="$PROJECT_DIR$/.gitignor" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/autotest/screen/elements/Controls.java" />
         <option value="$PROJECT_DIR$/src/main/java/autotest/screen/elements/AddHomeForm.java" />
         <option value="$PROJECT_DIR$/src/main/java/autotest/screen/elements/AuthorizationForm.java" />
@@ -137,13 +161,10 @@
         <option value="$PROJECT_DIR$/src/main/java/autotest/screen/elements/ProfileSettingsForm.java" />
         <option value="$PROJECT_DIR$/src/main/java/autotest/steps/ProfileUserSteps.java" />
         <option value="$PROJECT_DIR$/src/main/java/autotest/steps/AuthorizationUserSteps.java" />
-        <option value="$PROJECT_DIR$/src/test/java/smoke/TestBase.java" />
         <option value="$PROJECT_DIR$/src/test/java/smoke/AuthorizationAfterChangePasswordTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/smoke/AddPhoneNumberTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/smoke/CreateNewHouseWithoutWiFiTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/smoke/SettingsCaseTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/smoke/AddFamilyMembersEmailTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/smoke/AddFamilyMembersFromContactTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/smoke/AddWiFiTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/smoke/AuthorizationTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/smoke/CreateNewHouseWithWiFiTest.java" />
@@ -152,6 +173,10 @@
         <option value="$PROJECT_DIR$/src/test/java/smoke/LogOutTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/smoke/RenameHouseTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/smoke/SwitchingHousesTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/smoke/AddFamilyMembersEmailTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/smoke/TestBase.java" />
+        <option value="$PROJECT_DIR$/src/test/java/smoke/AddFamilyMembersFromContactTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -256,7 +281,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571233918849" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571234108104" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -502,7 +527,14 @@
       <option name="project" value="LOCAL" />
       <updated>1561963371228</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="10 кейсов + suit">
+      <created>1571234067426</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1571234067426</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -539,8 +571,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22867803" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22867803" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -554,7 +587,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053304" side_tool="true" weight="0.37093276" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.21691974" />
@@ -753,6 +786,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="697">
           <caret line="47" column="27" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#813#814#0" expanded="true" />
+            <element signature="e#885#886#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -817,6 +855,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-8">
           <caret line="19" column="49" lean-forward="true" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -824,6 +865,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="381">
           <caret line="77" column="37" selection-start-line="77" selection-start-column="27" selection-end-line="77" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1900#1901#0" expanded="true" />
+            <element signature="e#1985#1986#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -831,6 +877,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="411">
           <caret line="70" column="36" selection-start-line="70" selection-start-column="27" selection-end-line="70" selection-end-column="36" />
+          <folding>
+            <element signature="e#1399#1400#0" expanded="true" />
+            <element signature="e#1476#1477#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -838,6 +888,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-82">
           <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1078#1079#0" expanded="true" />
+            <element signature="e#1157#1158#0" expanded="true" />
+            <element signature="e#1228#1229#0" expanded="true" />
+            <element signature="e#1302#1303#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -845,6 +902,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+          <folding>
+            <element signature="e#749#750#0" expanded="true" />
+            <element signature="e#828#829#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -852,16 +913,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="35" column="55" lean-forward="true" selection-start-line="35" selection-start-column="55" selection-end-line="35" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/smoke/TestBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -892,6 +943,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="52" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -993,13 +1047,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1105">
-          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/autotest/screen/elements/AllertMessageForm.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -1013,21 +1060,38 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/autotest/screen/elements/AuthorizationForm.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="901">
-          <caret line="68" column="63" selection-start-line="68" selection-start-column="63" selection-end-line="68" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/smoke/AddFamilyMembersFromContactTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="26" column="52" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
+          <caret line="68" column="67" selection-start-line="68" selection-start-column="67" selection-end-line="68" selection-end-column="67" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/smoke/AddFamilyMembersEmailTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="40" />
+          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/smoke/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/smoke/AddFamilyMembersFromContactTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
         </state>
       </provider>
     </entry>
